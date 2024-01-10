@@ -1,0 +1,30 @@
+{
+  "test": {
+    "create": {
+      "cloud": "aws",
+      "enabled": false,
+      "help": "",
+      "template_section": "",
+      "template_enabled": false,
+      "metadata_table": "metadata",
+      "id": "name",
+      "args": {
+        "name": {
+          "name": "Name",
+          "prompt": "Enter Name with no spaces",
+          "required": true,
+          "default": ""
+        }
+      }
+    },
+    "list": {
+      "cloud": "aws",
+      "enabled": false,
+      "help": "",
+      "template_section": "",
+      "template_enabled": false,
+      "timestamp": "2023-03-16 12:05:45.528451",
+      "cmd_id": "20230316120532385773"
+    }
+  }
+}
